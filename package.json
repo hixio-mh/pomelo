@@ -29,7 +29,7 @@
     "async": "0.2.5",
     "seq-queue": "0.0.5",
     "crc": "0.2.0",
-    "cliff": "0.1.8",
+    "cliff": "0.1.10",
     "mkdirp": "0.3.3",
     "pomelo-loader": "0.0.6",
     "pomelo-rpc": "1.0.7",
